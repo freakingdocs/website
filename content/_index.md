@@ -9,4 +9,4 @@ weight:
 
 We write or curate useful documentation for tech stacks we begrudgingly use.
 
-That covers pretty much all tech stacks, so this site is for you.
+That pretty much covers all tech stacks, so this site is for you.
