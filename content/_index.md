@@ -7,4 +7,4 @@ weight:
 
 #  Where are the freaking docs?
 
-We provide useful docs, or tells you where to find them, for tech stacks we begrudgingly use. For a large enough sample size that's basically all tech stacks so this site is for you.
+We provide useful docs, or tell you where to find them, for tech stacks we begrudgingly use. For a large enough sample size that's basically all tech stacks so this site is for you.
