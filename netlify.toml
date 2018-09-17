@@ -1,0 +1,5 @@
+#redirects
+[[redirects]]
+  from = "https://fuckingdocs.com/*"
+  to = "https://freakingdocs.com/:splat"
+  status = 301
