@@ -7,6 +7,6 @@ weight:
 
 #  Where are the freaking docs?
 
-We write or curate useful documentation for tech stacks we begrudgingly use.
+We write and curate useful documentation for tech stacks we begrudgingly use.
 
 That pretty much covers all tech stacks, so this site is for you.
