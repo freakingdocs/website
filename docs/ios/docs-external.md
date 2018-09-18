@@ -9,3 +9,7 @@ weight:
 
 *  [Apple Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
 *  [Official Apple developer docs](https://developer.apple.com/documentation/)
+
+## Quick references
+* [Gosh Darn Block Syntax](http://goshdarnblocksyntax.com)
+* [Gosh Darn Closure Syntax](http://goshdarnclosuresyntax.com)
