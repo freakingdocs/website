@@ -2,7 +2,7 @@
 title: "External Spring Docs"
 date: 2018-09-16T07:03:39-07:00
 anchor: "spring-docs-external"
-weight: 10
+weight: 1000
 ---
 
 ## Spring Boot
