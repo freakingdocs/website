@@ -5,4 +5,4 @@ anchor: "_index"
 weight: 
 ---
 
-Native iOS development can be super rewarding but also pretty frustruating especially since there is a huge surface area to the platform and tools.
+Native iOS development can be super rewarding but also pretty frustrating especially since there is a huge surface area to the platform and tools.

@@ -10,3 +10,5 @@ weight:
 We write and curate useful documentation for tech stacks we begrudgingly use.
 
 That pretty much covers all tech stacks, so this site is for you.
+
+Interested in contributing? Please visit our [GitHub](https://github.com/freakingdocs/website) repository to find out how.
