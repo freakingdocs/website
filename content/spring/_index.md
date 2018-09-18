@@ -5,4 +5,4 @@ anchor: "_index"
 weight: 
 ---
 
-What's can we say about spring and spring boot? It's a brand, it's a platform, it's enterprise ready, it's full of Java and the docs are all over the place. Good luck!
+What can we say about spring and spring boot? It's a brand, it's a platform, it's enterprise ready, it's full of Java and the docs are all over the place. Good luck!
