@@ -24,7 +24,7 @@ enableMissingTranslationPlaceholders = false
 # languageName = "Français"
 
 [params]
-editURL = "https://github.com/freakingdocs/website/blob/master/content/"
+editURL = "https://github.com/freakingdocs/website/blob/master/docs/"
 showVisitedLinks = true # default is false
 themeStyle = "flex" # "original" or "flex" # default "flex"
 themeVariant = "" # choose theme variant "green", "gold" , "gray", "blue" (default)
