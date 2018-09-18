@@ -22,3 +22,9 @@ weight: 1000
 
 1. Come talk to me
 1. I'll probably give you commit access
+
+#### Hugo static site generator
+
+* [Hugo](https://gohugo.io/)
+* [Hugo quick start](https://gohugo.io/getting-started/quick-start)
+* [Hugo Documentation](https://gohugo.io/documentation)
