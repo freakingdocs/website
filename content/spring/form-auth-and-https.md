@@ -14,7 +14,7 @@ The `{noop}` modifier in the password uses a deprecated [NoOpPasswordEncoder](ht
 ```java
 @Profile("cloud")
 @EnableWebSecurity
-public class SecurityCloudConfiguration extends WebSecurityConfigurerAdapter {
+public class SecurityConfiguration extends WebSecurityConfigurerAdapter {
 
   @Override
   protected void configure(HttpSecurity http) throws Exception {
