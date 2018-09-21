@@ -20,7 +20,7 @@ weight: 1000
 
 ## Have we met in Meatspace?
 
-1. Come talk to me
+1. Come talk to [me](https://github.com/andymoe)
 1. I'll probably give you commit access
 
 #### Hugo static site generator
