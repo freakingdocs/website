@@ -7,5 +7,7 @@ date: 2018-10-04T07:14:45.721Z
 * ctrl + option + O (Optimize imports)
 * cmd + shift + U (Toggle Case)
 * ctrl + G (Multiselect)
+* shift + F6 (Refactor)
+* Alt + F7 (Show usages)
 
 PS. This page was added with the CMS at [freakingdocs.com/admin](https://freakingdocs.com/admin)
