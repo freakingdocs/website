@@ -1,30 +1,26 @@
 ---
-title: "Contributing"
-date: 2018-09-18T00:19:23-07:00
-anchor: "_index"
-weight: 1000
+title: Contributing
+date: 2018-09-18T07:19:23.000Z
 ---
-
 ## Write some docs
 
-1. Fork the repository - https://github.com/freakingdocs/website
-1. Clone your forked repository
-1. On mac, `brew install hugo`
-1. Change to the root of the project
-1. Run `hugo new <dirname>/<my-new-doc-file.md>`
-1. Above, `<dirname>` should be an existing directory under the docs directory
-1. If you want to start an entirely new section you will need to create a new directory under docs: `mkdir -p docs/<dirname>`
-1. Any new section directory needs it's own root-level `_index.md` file
-1. Write something clever to describe the new section
-1. Finally, push your changes up and open a pull request
+1. Be willing and able to put your prose into the public domain and your code examples under MIT license.
+2. Visit [freakingdocs.com/admin.](https://freakingdocs.com/admin)
+3. Log in with your GitHub username.
+4. Use the single page CMS to edit an existing page or add a new one to a predefined category.
 
-## Have we met in Meatspace?
+## Adding a new category
 
-1. Come talk to [me](https://github.com/andymoe)
-1. I'll probably give you commit access
+1. Contact [me](https://github.com/andymoe) and let me know what new category you'd like to contribute to.
+2. **or**, fork the [repository](https://github.com/freakingdocs/website) and send me a pull request to [this yml file.](https://github.com/freakingdocs/website/blob/master/static/admin/config.yml)
 
-#### Hugo static site generator
+#### This site is built with...
 
 * [Hugo](https://gohugo.io/)
 * [Hugo quick start](https://gohugo.io/getting-started/quick-start)
 * [Hugo Documentation](https://gohugo.io/documentation)
+
+and...
+
+* [Netlify.com](https://www.netlify.com)
+* [Netlify CMS](https://www.netlifycms.org)
