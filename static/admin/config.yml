@@ -13,6 +13,19 @@ collections:
     fields:
       - {label: Title, name: "title", widget: "string"}
       - {label: Publish Date, name: "date", widget: "datetime"}
+      - {label: Anchor, name: "anchor", widget: "string"}
+      - {label: Weight (Order using integer), name: "weight", widget: "number", valueType: int, min: 1, max: 1000}
+      - {label: Body, name: "body", widget: "markdown"}
+  - label: "Add Spring/Spring boot docs"
+    name: "iosdocs"
+    folder: docs/ios
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: Title, name: "title", widget: "string"}
+      - {label: Publish Date, name: "date", widget: "datetime"}
+      - {label: Anchor, name: "anchor", widget: "string"}
+      - {label: Weight (Order using integer), name: "weight", widget: "number", valueType: int, min: 1, max: 1000}
       - {label: Body, name: "body", widget: "markdown"}
   - label: "Pages"
     name: "pages"
