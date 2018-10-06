@@ -5,8 +5,8 @@ media_folder: "static/img"
 public_folder: "/img"
 
 collections:
-  - name: "springdocs"
-    label: "Add Spring/Spring boot docs"
+  - label: "Add Spring/Spring boot docs"
+    name: "springdocs"
     folder: docs/spring
     create: true
     slug: "{{slug}}"
@@ -14,7 +14,7 @@ collections:
       - {label: Title, name: "title", widget: "string"}
       - {label: Publish Date, name: "date", widget: "datetime"}
       - {label: Body, name: "body", widget: "markdown"}
-  - name: "Pages"
+  - Label: "Pages"
     name: "pages"
     files:
       - label: "Contributing"
