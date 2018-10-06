@@ -16,7 +16,7 @@ collections:
       - {label: Anchor, name: "anchor", widget: "string"}
       - {label: Weight (Order using integer), name: "weight", widget: "number", valueType: int, min: 1, max: 1000}
       - {label: Body, name: "body", widget: "markdown"}
-  - label: "Add Spring/Spring boot docs"
+  - label: "Apple/iOS Development"
     name: "iosdocs"
     folder: docs/ios
     create: true
