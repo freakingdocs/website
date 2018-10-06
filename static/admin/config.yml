@@ -14,3 +14,13 @@ collections:
       - {label: Title, name: "title", widget: "string"}
       - {label: Publish Date, name: "date", widget: "datetime"}
       - {label: Body, name: "body", widget: "markdown"}
+  - name: "Pages"
+    name: "pages"
+    files:
+      - label: "Contributing"
+        name: "contributing"
+        file: "docs/contributing/_index.md"
+        fields:
+          - {label: Title, name: "title", widget: "string"}
+          - {label: Publish Date, name: "date", widget: "datetime"}
+          - {label: Body, name: "body", widget: "markdown"}
